@@ -1,0 +1,4 @@
+2023-09-16 12:04:52,848 INFO o.s.b.StartupInfoLogger [restartedMain] Starting EmployeeManagementApplication using Java 19.0.2 with PID 6424 (D:\internship\Spring\employeeManagement\target\classes started by ASHISH CHAUHAN in D:\internship\Spring\employeeManagement)
+2023-09-16 12:04:52,857 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-09-16 12:04:52,857 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-16 12:04:53,629 INFO o.s.b.StartupInfoLogger [restartedMain] Started EmployeeManagementApplication in 0.817 seconds (process running for 73.925)
