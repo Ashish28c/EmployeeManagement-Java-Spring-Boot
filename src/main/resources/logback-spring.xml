@@ -51,8 +51,8 @@
             <smtpPort>587</smtpPort>
             <STARTTLS>true</STARTTLS>
             <asynchronousSending>false</asynchronousSending>
-            <username>bhumit.kataria@theparking.co.in</username>
-            <password>b0QHDMdHFSKm</password>
+            <username></username>
+            <password></password>
             <to>ashishchauhan28802@gmail.com</to>
           
             <from>bhumit.kataria@theparking.co.in</from>
